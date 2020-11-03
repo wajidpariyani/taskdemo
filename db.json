@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "prem",
+        "contact_number": "9712312312",
+        "emaild_id": "abc@gmail.com",
+        "user_password": "1234"
+    },
+    {
+        "id": 2,
+        "name": "nandu",
+        "contact_number": "12345",
+        "emaild_id": "def@gmail.com",
+        "user_password": "nandu1"
+    },
+    {
+        "id": 3,
+        "name": "ssss",
+        "contact_number": "9727757",
+        "emaild_id": "levina@gmail.com",
+        "user_password": "levina1234"
+    }
+]
